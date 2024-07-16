@@ -1,0 +1,160 @@
+* {
+    box-sizing: border-box;
+}
+
+.pechy-card-container {
+    perspective: 1250px;
+    width: 300px;
+    height: 450px;
+    margin: 5px;
+}
+
+.pechy-card {
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.6s;
+    position: relative;
+    text-align: center;
+    border: 2px solid rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    background-color: rgb(255, 250, 250);
+}
+
+ul.my-ul {
+    list-style: none;
+}
+
+ul.my-ul li {
+    position: relative;
+    padding-left: 25px;
+    margin-bottom: 5px;
+    font-size: 1.1em;
+}
+
+ul.my-ul li::before {
+    content: '';
+    position: absolute;
+    left: -10px;
+    top: 5px;
+    width: 18px;
+    height: 18px;
+    background-image: url('/public/images/lightsabers/crossed-lightsabers.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.saber-hr{
+    background-image: url('/public/images/lightsabers/doublesaber.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: auto;
+    height: 20px;
+    opacity: 0.85;
+    margin-bottom: 10px;
+}
+
+.pechy-card:hover {
+    transform: rotateY(12deg);
+}
+
+.pechy-card-container.flipped .pechy-card:hover {
+    transform: rotateY(168deg);
+}
+
+.pechy-card img {
+    margin-top: 10px;
+    width: 125px;
+    height: 125px;
+    border-radius: 50%;
+}
+
+.pechy-card ul {
+    text-align: left;
+}
+
+.pechy-card:hover {
+    cursor: pointer;
+}
+
+.pechy-card-container.flipped .pechy-card {
+    transform: rotateY(180deg);
+}
+
+.pechy-card-front,
+.pechy-card-back {
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.pechy-card-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    font-weight: bold;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    color: rgb(185, 185, 34);
+    box-shadow: 0px 0px 1px 1px;
+    border: 1px double rgba(0, 0, 0, 0.5);
+    padding-bottom: 1px;
+}
+
+.pechy-card-icon img {
+    width: 28px;
+    height: 28px;
+    position: absolute;
+    bottom: 0px;
+}
+
+.pechy-card-back .pechy-card-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(73, 73, 73);
+    height: 10%;
+    color: rgb(219, 219, 219);
+    border-radius: 15px 15px 0 0;
+    border: 1px solid;
+}
+
+.pechy-card hr {
+    margin: 10px;
+}
+
+.pechy-card-body {
+    height: 85%;
+    padding: 10px 5px;
+}
+
+.pechy-card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top: 1px dotted;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.pechy-card>h1,
+h2,
+h3,
+h4,
+h5 {
+    margin: 5px;
+}
+
+.pechy-card-front {
+    z-index: 2;
+}
+
+.pechy-card-back {
+    transform: rotateY(180deg);
+}

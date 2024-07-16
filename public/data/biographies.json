@@ -1,0 +1,330 @@
+[
+    {
+      "name": "Luke Skywalker",
+      "biography": "Luke Skywalker je jedním z nejvýznamnějších hrdinů v galaxii, známý svou rolí ve zničení Hvězdy smrti a svým bojem proti Galaktickému Impériu. Syn Anakina Skywalkera (Darth Vader) a Padmé Amidaly, Luke se stal Jediem pod vedením Obi-Wana Kenobiho a mistra Yody."
+    },
+    {
+      "name": "C-3PO",
+      "biography": "C-3PO je humanoidní protokolární droid, známý svou schopností plynně mluvit více než šesti miliony formami komunikace. Byl vytvořen Anakinem Skywalkerem a sloužil v mnoha klíčových momentech Galaktické občanské války."
+    },
+    {
+      "name": "R2-D2",
+      "biography": "R2-D2 je astromech droid, který hrál klíčovou roli v mnoha důležitých událostech v galaxii. Doprovázel Anakina Skywalkera, Obi-Wana Kenobiho a později Lukea Skywalkera. Je známý svou odvahou a schopností zachraňovat své přátele v nouzi."
+    },
+    {
+      "name": "Darth Vader",
+      "biography": "Darth Vader, původně známý jako Anakin Skywalker, je jedním z nejikoničtějších padouchů v galaxii. Byl nadějným Jediem, než se obrátil na temnou stranu Síly a stal se Sithským lordem pod vedením císaře Palpatina. Je otcem Lukea Skywalkera a Leiy Organy."
+    },
+    {
+      "name": "Leia Organa",
+      "biography": "Leia Organa, princezna z Alderaanu, je vůdčí osobností Povstalecké aliance. Dcera Anakina Skywalkera a Padmé Amidaly, sestra dvojčete Lukea Skywalkera. Je známá svou odvahou, diplomatickými schopnostmi a silnou vírou v boj za svobodu galaxie."
+    },
+    {
+      "name": "Owen Lars",
+      "biography": "Owen Lars je farmář na Tatooine a nevlastní bratr Anakina Skywalkera. Spolu se svou ženou Beru vychovávali Lukea Skywalkera jako svého vlastního syna. Owen se snažil chránit Lukea před nebezpečím, které představovala jeho skutečná identita."
+    },
+    {
+      "name": "Beru Whitesun lars",
+      "biography": "Beru Whitesun Lars je manželka Owena Larse a teta Lukea Skywalkera. Společně s Owenem žila na farmě vlhkosti na Tatooine, kde vychovávali Lukea a chránili ho před nebezpečím jeho původu."
+    },
+    {
+      "name": "R5-D4",
+      "biography": "R5-D4 je astromech droid, který byl původně koupen Owenem Larsem místo R2-D2. Kvůli vadné motivaci musel být vrácen, což umožnilo R2-D2 pokračovat ve své důležité misi s Lukem Skywalkerem."
+    },
+    {
+      "name": "Biggs Darklighter",
+      "biography": "Biggs Darklighter byl pilotem Povstalecké aliance a blízkým přítelem Lukea Skywalkera z dětství na Tatooine. Sloužil jako pilot X-wingu během bitvy o Yavin, kde tragicky zahynul."
+    },
+    {
+      "name": "Obi-Wan Kenobi",
+      "biography": "Obi-Wan Kenobi, také známý jako Ben Kenobi, byl mistr Jedi, který vycvičil jak Anakin Skywalkera, tak jeho syna Lukea. Po pádu Jediů se stáhl do ústraní na Tatooine, kde dohlížel na růst Lukea Skywalkera."
+    },
+    {
+      "name": "Anakin Skywalker",
+      "biography": "Anakin Skywalker byl Jedi, který se stal Darth Vaderem po přechodu na temnou stranu Síly. Byl považován za Vyvoleného, který měl přinést rovnováhu Síle, ale jeho osud vedl k velkému utrpení a zkáze v galaxii."
+    },
+    {
+      "name": "Wilhuff Tarkin",
+      "biography": "Wilhuff Tarkin byl imperiální velkomoff a jedním z nejbližších poradců císaře Palpatina. Byl zodpovědný za výstavbu a operace Hvězdy smrti a vedl její první útok proti Povstalecké alianci."
+    },
+    {
+      "name": "Chewbacca",
+      "biography": "Chewbacca je Wookiee z planety Kashyyyk a věrný druh Hana Sola. Sloužil jako kopilot na lodi Millennium Falcon a hrál klíčovou roli v mnoha důležitých bitvách Povstalecké aliance."
+    },
+    {
+      "name": "Han Solo",
+      "biography": "Han Solo je pašerák, který se stal hrdinou Povstalecké aliance. Původně pilot lodi Millennium Falcon, připojil se k povstání a stal se jedním z nejvýznamnějších vůdců ve válce proti Galaktickému Impériu."
+    },
+    {
+      "name": "Greedo",
+      "biography": "Greedo byl lovec odměn z rodu Rodianů, který se snažil chytit Hana Sola. Byl zabit Hanem v kantýně Mos Eisley poté, co se ho pokusil zadržet kvůli dluhům Hana u Jabby Hutta."
+    },
+    {
+      "name": "Jabba Desilijic Tiure",
+      "biography": "Jabba Desilijic Tiure, známý jako Jabba Hutt, byl mocný zločinecký boss na Tatooine. Vlastnil mnoho pašeráckých operací a měl široký vliv ve zločineckém podsvětí galaxie."
+    },
+    {
+      "name": "Wedge Antilles",
+      "biography": "Wedge Antilles je pilotem Povstalecké aliance a později Nové republiky. Byl jedním z mála, kteří přežili bitvu o Yavin a Hvězdu smrti. Je známý jako jeden z nejlepších pilotů v galaxii."
+    },
+    {
+      "name": "Jek Tono Porkins",
+      "biography": "Jek Tono Porkins byl pilotem Povstalecké aliance, který bojoval v bitvě o Yavin. Navzdory svým schopnostem byl zabit během útoku na první Hvězdu smrti."
+    },
+    {
+      "name": "Yoda",
+      "biography": "Yoda byl velmistr Jedi a jeden z nejmocnějších Jediů všech dob. Sloužil jako člen Rady Jediů a vycvičil mnoho slavných Jediů, včetně Lukea Skywalkera. Strávil své poslední roky v exilu na planetě Dagobah."
+    },
+    {
+      "name": "Palpatine",
+      "biography": "Palpatine, také známý jako císař nebo Darth Sidious, byl Sithský lord, který stál za pádem Republiky a vzestupem Galaktického Impéria. Byl mistrem Darth Vadera a vládl jako císař až do své smrti."
+    },
+    {
+      "name": "Boba Fett",
+      "biography": "Boba Fett byl známý lovec odměn, klon Jango Fetta. Pracoval pro mnoho významných klientů, včetně Jabby Hutta a Darth Vadera. Je známý svou efektivitou a tajemností."
+    },
+    {
+      "name": "IG-88",
+      "biography": "IG-88 je sériový vražedný droid a lovec odměn. Byl jedním z nejnebezpečnějších a nejefektivnějších lovců v galaxii, známý svou nemilosrdností a efektivitou."
+    },
+    {
+      "name": "Bossk",
+      "biography": "Bossk je Trandoshan a jeden z nejznámějších lovců odměn v galaxii. Pracoval pro mnoho klientů včetně Impéria a Jabby Hutta a je známý svou brutalitou a loveckými schopnostmi."
+    },
+    {
+      "name": "Lando Calrissian",
+      "biography": "Lando Calrissian je pašerák, gambler a bývalý baron-administrátor Města v oblacích na Bespinu. Později se připojil k Povstalecké alianci a hrál klíčovou roli v bitvě o Endor."
+    },
+    {
+      "name": "Lobot",
+      "biography": "Lobot je kyborg a blízký spolupracovník Landa Calrissiana. Sloužil jako administrátor Města v oblacích na Bespinu a pomáhal při jeho obraně během útoku Impéria."
+    },
+    {
+      "name": "Ackbar",
+      "biography": "Ackbar, známý jako admirál Ackbar, byl vojevůdce Povstalecké aliance. Vedl mnoho klíčových bitev, včetně bitvy o Endor, a je známý svým slavným výrokem 'It's a trap!'"
+    },
+    {
+      "name": "Mon Mothma",
+      "biography": "Mon Mothma byla politická vůdkyně Povstalecké aliance a později Nové republiky. Byla jednou z hlavních postav, které vedly povstání proti Galaktickému Impériu."
+    },
+    {
+      "name": "Arvel Crynyd",
+      "biography": "Arvel Crynyd byl pilotem Povstalecké aliance, který se obětoval během bitvy o Endor. Jeho sebevražedný náraz do Hvězdy smrti byl klíčový pro vítězství Povstalecké aliance."
+    },
+    {
+      "name": "Wicket Systri Warrick",
+      "biography": "Wicket Systri Warrick je Ewok z planety Endor, který pomohl Povstalecké alianci během bitvy o Endor. Je známý svou odvahou a spoluprací s Leiyou Organou."
+    },
+    {
+      "name": "Nien Nunb",
+      "biography": "Nien Nunb je pilot Sullustán, který se připojil k Povstalecké alianci. Spolu s Landem Calrissianem pilotoval Millennium Falcon během bitvy o Endor."
+    },
+    {
+      "name": "Qui-Gon Jinn",
+      "biography": "Qui-Gon Jinn byl mistr Jedi, známý svou nekonvenční filozofií a silným spojením se Silou. Byl mistrem Obi-Wana Kenobiho a objevil Anakina Skywalkera na Tatooine."
+    },
+    {
+      "name": "Nute Gunray",
+      "biography": "Nute Gunray byl vicekrálem Obchodní federace a jeden z hlavních antagonistů během Klonových válek. Spolupracoval s Darthem Sidiousem na blokádě Naboo a dalších intrikách proti Republice."
+    },
+    {
+      "name": "Finis Valorum",
+      "biography": "Finis Valorum byl nejvyšší kancléř Galaktické republiky před Palpatinem. Byl sesazen kvůli intrikám a korupci, která ovládla Republiku během jeho vlády."
+    },
+    {
+      "name": "Padmé Amidala",
+      "biography": "Padmé Amidala byla královnou Naboo a později senátorkou v Galaktické republice. Byla manželkou Anakina Skywalkera a matkou Lukea Skywalkera a Leiy Organy. Hrála klíčovou roli v událostech vedoucích k pádu Republiky."
+    },
+    {
+      "name": "Jar Jar Binks",
+      "biography": "Jar Jar Binks je Gungan z planety Naboo, který pomohl sjednotit Gungany a Naboo proti Obchodní federaci. Později sloužil jako zástupce Naboo v Galaktickém senátu."
+    },
+    {
+      "name": "Roos Tarpals",
+      "biography": "Roos Tarpals byl důstojníkem Gunganů, který pomohl v boji proti Obchodní federaci během bitvy o Naboo. Byl známý svou odvahou a loajalitou ke svému lidu."
+    },
+    {
+      "name": "Rugor Nass",
+      "biography": "Rugor Nass byl vůdcem Gunganů na Naboo. Pomohl sjednotit svůj lid s obyvateli Naboo, aby společně čelili hrozbě Obchodní federace."
+    },
+    {
+      "name": "Ric Olié",
+      "biography": "Ric Olié byl hlavním pilotem královské flotily Naboo. Pilotoval královskou loď během blokády Naboo a hrál klíčovou roli ve vesmírných bitvách."
+    },
+    {
+      "name": "Watto",
+      "biography": "Watto byl Toydariánský obchodník a otrokár na Tatooine. Vlastnil Anakina a Shmi Skywalkery, dokud je Qui-Gon Jinn nevykoupil. Byl známý svou tvrdou obchodní povahou."
+    },
+    {
+      "name": "Sebulba",
+      "biography": "Sebulba byl Dug a známý závodník v podracích na Tatooine. Byl hlavním soupeřem mladého Anakina Skywalkera v závodě, který rozhodl o jeho budoucnosti."
+    },
+    {
+      "name": "Quarsh Panaka",
+      "biography": "Quarsh Panaka byl kapitán královské stráže Naboo. Sloužil věrně královně Amidale a pomáhal v boji proti Obchodní federaci během invaze Naboo."
+    },
+    {
+      "name": "Shmi Skywalker",
+      "biography": "Shmi Skywalker byla matka Anakina Skywalkera. Žila jako otrokyně na Tatooine a věřila v mimořádný osud svého syna. Byla zabita Tuskeny, což vedlo k Anakinovu prvnímu kroku na temnou stranu."
+    },
+    {
+      "name": "Darth Maul",
+      "biography": "Darth Maul byl Sithský učedník Dartha Sidiouse, známý svým dvojitým světelným mečem a bojovými schopnostmi. Byl zraněn Obi-Wanem Kenobim během bitvy o Naboo, ale přežil a pokračoval v boji proti Jediům."
+    },
+    {
+      "name": "Bib Fortuna",
+      "biography": "Bib Fortuna byl Twi'lek a majordomus Jabby Hutta. Sloužil jako jeho hlavní poradce a vykonavatel, byl loajální svému pánovi až do Jabbyho smrti."
+    },
+    {
+      "name": "Ayla Secura",
+      "biography": "Ayla Secura byla Twi'lek Jedi, která sloužila v Rytířském řádu Jediů během Klonových válek. Byla zabita klonovými vojáky během Rozkazu 66 na Felucii."
+    },
+    {
+      "name": "Ratts Tyerel",
+      "biography": "Ratts Tyerel byl malý pilot z planety Aleen, který závodil v podracích na Tatooine. Zahynul během závodu, kterého se účastnil i mladý Anakin Skywalker."
+    },
+    {
+      "name": "Dud Bolt",
+      "biography": "Dud Bolt byl podrace závodník z planety Vulpter. Byl známý svým agresivním stylem jízdy a účastnil se závodů na Tatooine."
+    },
+    {
+      "name": "Gasgano",
+      "biography": "Gasgano byl Xexto podrace závodník, který závodil na Tatooine. Byl jedním z favoritů během závodu, ve kterém zvítězil mladý Anakin Skywalker."
+    },
+    {
+      "name": "Ben Quadinaros",
+      "biography": "Ben Quadinaros byl Toong podrace závodník, který závodil na Tatooine. Byl známý svým charakteristickým vzhledem a často komickými neúspěchy během závodů."
+    },
+    {
+      "name": "Mace Windu",
+      "biography": "Mace Windu byl mistr Jedi a člen Rady Jediů, známý svou moudrostí a bojovými schopnostmi. Byl zabit Darthem Sidiousem během pokusu o jeho zatčení."
+    },
+    {
+      "name": "Ki-Adi-Mundi",
+      "biography": "Ki-Adi-Mundi byl mistr Jedi a člen Rady Jediů. Sloužil během Klonových válek a byl zabit během Rozkazu 66 na Mygeetu."
+    },
+    {
+      "name": "Kit Fisto",
+      "biography": "Kit Fisto byl mistr Jedi z planety Glee Anselm, známý svou dovedností v bojových uměních a podvodních schopnostech. Byl zabit během pokusu o zatčení Dartha Sidiouse."
+    },
+    {
+      "name": "Eeth Koth",
+      "biography": "Eeth Koth byl mistr Jedi a člen Rady Jediů. Sloužil během Klonových válek a byl známý svou odvahou a bojovými schopnostmi."
+    },
+    {
+      "name": "Adi Gallia",
+      "biography": "Adi Gallia byla mistryně Jedi a členka Rady Jediů. Byla známá svými diplomatickými schopnostmi a byla zabita během Klonových válek."
+    },
+    {
+      "name": "Saesee Tiin",
+      "biography": "Saesee Tiin byl mistr Jedi a pilot, který sloužil v Radě Jediů. Byl zabit během pokusu o zatčení Dartha Sidiouse."
+    },
+    {
+      "name": "Yarael Poof",
+      "biography": "Yarael Poof byl mistr Jedi a člen Rady Jediů, známý svým dlouhým krkem a telepatickými schopnostmi. Byl zabit během tajné mise před Klonovými válkami."
+    },
+    {
+      "name": "Plo Koon",
+      "biography": "Plo Koon byl mistr Jedi z planety Dorin, známý svou moudrostí a bojovými schopnostmi. Byl zabit během Rozkazu 66 na planetě Cato Neimoidia."
+    },
+    {
+      "name": "Mas Amedda",
+      "biography": "Mas Amedda byl Chagrian a politik, který sloužil jako vicekancléř během vlády Palpatina. Byl jedním z mála, kdo věděl o jeho pravé identitě."
+    },
+    {
+      "name": "Gregar Typho",
+      "biography": "Gregar Typho byl kapitán královské stráže Naboo a osobní strážce senátorky Padmé Amidaly. Sloužil věrně a chránil ji během Klonových válek."
+    },
+    {
+      "name": "Cordé",
+      "biography": "Cordé byla služebná a dvojnice senátorky Padmé Amidaly. Obětovala se během atentátu na Padmé, čímž jí zachránila život."
+    },
+    {
+      "name": "Cliegg Lars",
+      "biography": "Cliegg Lars byl farmář na Tatooine a nevlastní otec Anakina Skywalkera. Oženil se s Shmi Skywalkerovou a snažil se ji zachránit před Tuskeny."
+    },
+    {
+      "name": "Poggle the Lesser",
+      "biography": "Poggle the Lesser byl vůdcem Geonosianů a členem Konfederace nezávislých systémů. Spolupracoval s Dookuem během Klonových válek."
+    },
+    {
+      "name": "Luminara Unduli",
+      "biography": "Luminara Unduli byla mistryně Jedi a generálka během Klonových válek. Byla zabita klonovými vojáky během Rozkazu 66."
+    },
+    {
+      "name": "Barriss Offee",
+      "biography": "Barriss Offee byla padawankou mistryně Luminara Unduli. Byla známá svou léčitelskou mocí, ale nakonec zradila Jedie a byla uvězněna."
+    },
+    {
+      "name": "Dormé",
+      "biography": "Dormé byla služebná a dvojnice senátorky Padmé Amidaly. Sloužila věrně a chránila ji během Klonových válek."
+    },
+    {
+      "name": "Dooku",
+      "biography": "Dooku, známý také jako Darth Tyranus, byl bývalý Jedi, který se stal Sithským lordem a vůdcem Konfederace nezávislých systémů. Byl učitelem Anakina Skywalkera a padl v souboji s ním."
+    },
+    {
+      "name": "Bail Prestor Organa",
+      "biography": "Bail Prestor Organa byl senátor z Alderaanu a klíčová postava Povstalecké aliance. Adoptoval Leiu Organu a pomohl v boji proti Impériu."
+    },
+    {
+      "name": "Jango Fett",
+      "biography": "Jango Fett byl legendární lovec odměn a genetický předchůdce klonové armády. Byl otcem Boby Fetta a sloužil jako šablona pro klonové vojáky."
+    },
+    {
+      "name": "Zam Wesell",
+      "biography": "Zam Wesell byla měňavá lovkyně odměn, která spolupracovala s Jangem Fettem. Byla zabita předtím, než mohla odhalit, kdo ji najal na atentát na senátorku Amidalu."
+    },
+    {
+      "name": "Dexter Jettster",
+      "biography": "Dexter Jettster byl majitelem restaurace na Coruscantu a starý přítel Obi-Wana Kenobiho. Poskytl Obi-Wanovi klíčové informace o klonech a Kamino."
+    },
+    {
+      "name": "Lama Su",
+      "biography": "Lama Su byl hlavním ministr ve městě Kamino a dohlížel na výrobu klonové armády pro Galaktickou republiku. Spolupracoval s Jangem Fettem na vytvoření klonů."
+    },
+    {
+      "name": "Taun We",
+      "biography": "Taun We byla asistentka Lama Su a hrála klíčovou roli při komunikaci mezi Kamino a Galaktickou republikou. Pomohla Obi-Wanu Kenobimu objevit tajemství klonové armády."
+    },
+    {
+      "name": "Jocasta Nu",
+      "biography": "Jocasta Nu byla hlavní knihovnice v Chrámu Jediů na Coruscantu. Byla zodpovědná za správu rozsáhlého archivu Jediů a pomohla Obi-Wanu Kenobimu při hledání informací o Kamino."
+    },
+    {
+      "name": "R4-P17",
+      "biography": "R4-P17 byl astromechanický droid, který sloužil Obi-Wanu Kenobimu během Klonových válek. Pomohl při navigaci a opravách jeho stíhačky."
+    },
+    {
+      "name": "Wat Tambor",
+      "biography": "Wat Tambor byl vůdcem Techno Unie a klíčovou postavou Konfederace nezávislých systémů. Spolupracoval s Dookuem a hrál klíčovou roli ve výrobě droidů pro Klonové války."
+    },
+    {
+      "name": "San Hill",
+      "biography": "San Hill byl vůdcem Mezinárodní bankovní klanu a členem Konfederace nezávislých systémů. Spolupracoval s Dookuem a financoval válku proti Republice."
+    },
+    {
+      "name": "Shaak Ti",
+      "biography": "Shaak Ti byla mistryně Jedi z planety Shili, známá svou moudrostí a bojovými schopnostmi. Sloužila během Klonových válek a přežila Rozkaz 66."
+    },
+    {
+      "name": "Grievous",
+      "biography": "Generál Grievous byl kyborg a vrchní velitel droidí armády během Klonových válek. Byl známý svými bojovými schopnostmi a sbírkou světelných mečů Jediů, které porazil."
+    },
+    {
+      "name": "Tarfful",
+      "biography": "Tarfful byl wookiee válečník a vůdce z Kashyyyku. Pomáhal Jediům během Klonových válek a bojoval proti droidím armádám."
+    },
+    {
+      "name": "Raymus Antilles",
+      "biography": "Raymus Antilles byl kapitán Tantive IV a loajální služebník rodu Organa. Byl zajat a zabit Darth Vaderem, když se snažil ochránit plány Hvězdy smrti."
+    },
+    {
+      "name": "Sly Moore",
+      "biography": "Sly Moore byla poradkyně Palpatina a jedna z mála, kdo věděli o jeho pravé identitě jako Darth Sidious. Sloužila jako jeho věrná asistentka během jeho vlády."
+    },
+    {
+      "name": "Tion Medon",
+      "biography": "Tion Medon byl správce města Pau na planetě Utapau. Poskytl Obi-Wanu Kenobimu klíčové informace o přítomnosti generála Grievouse na jeho planetě."
+    }
+  ]
